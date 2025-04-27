@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Kotlin<br>👯 I’m looking to collaborate on Web Application,Mobile Development<br>🤝 I’m looking for help with Kotlin,Raspberry Pi<br>🌱 I’m currently learning Kotlin with Spring <br>💬 Ask me about Javascript,NodeJs,NextJs,SQL,MongoDB,HTML,CSS,Kotlin Multiplatform<br>⚡ Fun fact I Love Cats
-CTO @CubeouTech Solutions
+🔭 I’m currently working on Kotlin<br>👯 I’m looking to collaborate on Web Application,Mobile Development<br>🤝 I’m looking for help with Kotlin,Raspberry Pi<br>🌱 I’m currently learning Kotlin with Spring <br>💬 Ask me about Javascript,NodeJs,NextJs,SQL,MongoDB,HTML,CSS,Kotlin Multiplatform<br>⚡ Fun fact I Love Cats <br>
+CTO @CubeouTech Solutions (https://cubeouttech.com)
 
 
 ## 🌐 Socials:
